@@ -26,6 +26,6 @@ Use the colors given below:
 NOTE: Before you submit your work, make sure that all is as it should be. Upload your work within the same directory if possible. And finally your website must be responsive.
 
 
-Can't wait to have you on my time. You got this 😊!
+Can't wait to have you on my team. You got this 😊!
 
 Site Attributed to : https://dutcredit.co.ke/
