@@ -1,0 +1,94 @@
+.navbar{
+    padding: .9rem 2.9rem .9rem 2.9rem ;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+
+
+}
+.navbar ul{
+    width: 100%;
+    background: rgb(255, 255, 255);
+}
+.navbar li{
+    padding:0 2.5rem 0 2.5rem ;
+    background: rgb(255, 255, 255);
+}
+.navbar a{
+    font-weight:500;
+    font-size: 1.1rem;
+    line-height: 1.5rem; 
+    color: rgb(107 114 128);
+    background: rgb(255, 255, 255);
+}
+.navbar .nav-links{
+    width: 70%;
+    margin: auto;
+    background: rgb(255, 255, 255);
+}
+.navbar #login-link{
+    padding: .6rem 1.2rem .6rem 1.2rem;
+    text-transform: capitalize;
+    color: rgb(21 128 61) ;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+/* logo */
+.navbar .logo{
+    height: 3rem ;
+    width: 3.8rem;
+    background: rgb(255, 255, 255);
+}
+.logo img{
+    background: rgb(255, 255, 255);
+}
+
+/* mobile navbar */
+.navbar-mobi{
+    width: 100%;
+    background: rgb(255, 255, 255);
+    padding: 1rem 1.2rem 1rem 1.2rem;
+
+}
+/* logo */
+.navbar-mobi .logo{
+    height: 2.3rem ;
+    width: 3rem;
+    background: rgb(255, 255, 255);
+}
+/* mobile navbar icon */
+.navbar-mobi .menu-icon .fas{
+    font-size: 1.7rem;
+    background: rgb(255, 255, 255);
+    color: rgb(107 114 128);
+}
+
+.banner-section .banner-img{
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.banner-section .banner-intro{
+    padding: 0 4rem 0 4rem;
+}
+.banner-section .banner-intro h1{
+    font-size: 2.25rem;
+    line-height: 3rem;
+    padding: 0 0 .57rem 0;
+}
+.banner-section .banner-intro p{
+    color: rgb(107 114 128);
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    padding: 0 0 1rem 0;
+}
+.banner-section .banner-intro .btn{
+    width: 300px;
+    padding: 1rem;
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    border-radius: .5rem;
+    
+}

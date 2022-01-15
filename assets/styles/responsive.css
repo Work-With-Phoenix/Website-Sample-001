@@ -1,0 +1,37 @@
+@media (max-width: 640px) { 
+.navbar{
+    display: none;
+}
+.banner-section .banner-img{
+    display: none;
+}
+.banner-section .banner-intro{
+padding: 2rem ;
+display: flex;
+flex-direction: column;
+align-items: center;
+justify-content: center;
+text-align: center;
+}
+.banner-section .banner-intro h1{
+    font-size: 1.8rem;
+    text-align: center;
+    line-height: 3rem;
+    padding: 0 0 .57rem 0;
+}
+.banner-section .banner-intro .btn{
+    width: 280px;
+}
+ }
+
+ @media (min-width: 1280px) { 
+     .navbar-mobi{
+         display: none;
+     }
+     /* banner section */
+.banner-section{
+    width: 100%;
+    display: grid;
+    grid-template-columns:repeat(2, minmax(0, 1fr)) ;
+}
+  }
